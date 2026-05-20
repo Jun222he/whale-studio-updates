@@ -1,1 +1,10 @@
-{}
+{
+  "ide": {
+    "size": 118265990,
+    "sha256": "cde7905663c8c0d85bd2c513c7ea72a6b6a72a49066bcbd08a2a1a7d3c81bceb",
+    "changelog": "- 新增系統更新頁面（IDE / l1jgo.exe 雙軌獨立更新）\n- 新增環境安裝精靈（PostgreSQL 全自動安裝、地圖解壓）\n- 新增伺服器控制台（啟動/停止/重啟、即時日誌）\n- 改名為 Whale Studio\n- 亮色主題色彩校正、移除糖果色\n- 全主題化確認對話框，取代瀏覽器原生 confirm\n- 伺服器日誌 ANSI 顏色解析\n- 日誌與設定值可選取複製\n- Sidebar 重新分類（管理 / 系統）",
+    "version": "0.2.0",
+    "releasedAt": "2026-05-20T20:48:33Z",
+    "url": "https://github.com/Jun222he/whale-studio-updates/releases/download/ide-v0.2.0/whale-studio-0.2.0.zip"
+  }
+}
