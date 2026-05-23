@@ -1,11 +1,11 @@
 {
   "ide": {
-    "version": "0.3.1",
-    "url": "https://github.com/Jun222he/whale-studio-updates/releases/download/ide-v0.3.1/whale-studio-0.3.1.zip",
-    "releasedAt": "2026-05-23T00:34:57Z",
-    "changelog": "- 維護性更新（驗證自動更新管線）\n- 功能同 0.3.0（Boss 列表 / Live Boss 管理）",
-    "size": 118270731,
-    "sha256": "56990fa57f098f24f6d628f63c775acb0004ab8669728b0ed1bcd53909739da4"
+    "size": 118270822,
+    "changelog": "- 修正 IDE 自動更新套用失敗（robocopy + 等特定 PID + 釋放延遲）\n- 功能同 0.3.1（Boss 列表 / Live Boss 管理）",
+    "releasedAt": "2026-05-23T00:47:04Z",
+    "sha256": "93486903d443d30a6b3980448020070011626f81279e971e2cf5d22b357771aa",
+    "version": "0.3.2",
+    "url": "https://github.com/Jun222he/whale-studio-updates/releases/download/ide-v0.3.2/whale-studio-0.3.2.zip"
   },
   "server": {
     "size": 12114061,
