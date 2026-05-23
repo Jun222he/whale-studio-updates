@@ -6,5 +6,13 @@
     "sha256": "92307a1d5ec2d22a699b395464f9c48f875e2b83dd034970f7df1f80887e3b79",
     "changelog": "- 新增 Boss 列表編輯頁（編輯 boss_list.yaml）\n- Live 管理新增 Boss 管理：即時王時間/座標/倒數/強制重生\n- 編輯表單布林開關整列對齊 + Boss 欄位中文標籤\n- 修正打包 app.asar 體積翻倍",
     "url": "https://github.com/Jun222he/whale-studio-updates/releases/download/ide-v0.3.0/whale-studio-0.3.0.zip"
+  },
+  "server": {
+    "size": 12114061,
+    "url": "https://github.com/Jun222he/whale-studio-updates/releases/download/server-v0.3.29/l1jgo-v0.3.29.zip",
+    "changelog": "- Boss 系統：is_boss 分類 + 託管生怪（排程重生/全服公告/exist_time）\n- 王重生時間持久化 + admin /api/boss + 強制重生\n- 更新現含 data/yaml + scripts（YAML/Lua 隨更新散佈）\n- 修 boss 被 AI 拉回 (0,0)",
+    "sha256": "950ed3d51f6101dc79517ec3b72990ac95a4f3882f9a1678ddd4c3a064e4fa8a",
+    "releasedAt": "2026-05-23T00:26:44Z",
+    "version": "v0.3.29"
   }
 }
