@@ -1,11 +1,11 @@
 {
   "ide": {
-    "releasedAt": "2026-05-23T00:25:36Z",
-    "size": 118270733,
-    "version": "0.3.0",
-    "sha256": "92307a1d5ec2d22a699b395464f9c48f875e2b83dd034970f7df1f80887e3b79",
-    "changelog": "- 新增 Boss 列表編輯頁（編輯 boss_list.yaml）\n- Live 管理新增 Boss 管理：即時王時間/座標/倒數/強制重生\n- 編輯表單布林開關整列對齊 + Boss 欄位中文標籤\n- 修正打包 app.asar 體積翻倍",
-    "url": "https://github.com/Jun222he/whale-studio-updates/releases/download/ide-v0.3.0/whale-studio-0.3.0.zip"
+    "version": "0.3.1",
+    "url": "https://github.com/Jun222he/whale-studio-updates/releases/download/ide-v0.3.1/whale-studio-0.3.1.zip",
+    "releasedAt": "2026-05-23T00:34:57Z",
+    "changelog": "- 維護性更新（驗證自動更新管線）\n- 功能同 0.3.0（Boss 列表 / Live Boss 管理）",
+    "size": 118270731,
+    "sha256": "56990fa57f098f24f6d628f63c775acb0004ab8669728b0ed1bcd53909739da4"
   },
   "server": {
     "size": 12114061,
