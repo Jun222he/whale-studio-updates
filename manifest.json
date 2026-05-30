@@ -8,11 +8,11 @@
     "version": "0.3.3"
   },
   "server": {
-    "size": 12114061,
-    "url": "https://github.com/Jun222he/whale-studio-updates/releases/download/server-v0.3.29/l1jgo-v0.3.29.zip",
-    "changelog": "- Boss 系統：is_boss 分類 + 託管生怪（排程重生/全服公告/exist_time）\n- 王重生時間持久化 + admin /api/boss + 強制重生\n- 更新現含 data/yaml + scripts（YAML/Lua 隨更新散佈）\n- 修 boss 被 AI 拉回 (0,0)",
-    "sha256": "950ed3d51f6101dc79517ec3b72990ac95a4f3882f9a1678ddd4c3a064e4fa8a",
-    "releasedAt": "2026-05-23T00:26:44Z",
-    "version": "v0.3.29"
+    "releasedAt": "2026-05-30T09:37:44Z",
+    "url": "https://github.com/Jun222he/whale-studio-updates/releases/download/server-v0.3.32/l1jgo-v0.3.32.zip",
+    "changelog": "新增資料庫自動備份系統：伺服器開著就定時 pg_dump 整庫快照、自動輪替刪舊；頻率/保留份數可在 server.toml [backup] 或 Whale Studio 設定。",
+    "version": "v0.3.32",
+    "size": 13928662,
+    "sha256": "8cb290fc8f6519cdb60b7a007635df92646428a44b40eaf4afce36bf86feeb45"
   }
 }
