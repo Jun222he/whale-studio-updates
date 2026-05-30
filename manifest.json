@@ -1,11 +1,11 @@
 {
   "ide": {
-    "size": 118270822,
-    "changelog": "- 修正 IDE 自動更新套用失敗（robocopy + 等特定 PID + 釋放延遲）\n- 功能同 0.3.1（Boss 列表 / Live Boss 管理）",
-    "releasedAt": "2026-05-23T00:47:04Z",
-    "sha256": "93486903d443d30a6b3980448020070011626f81279e971e2cf5d22b357771aa",
-    "version": "0.3.2",
-    "url": "https://github.com/Jun222he/whale-studio-updates/releases/download/ide-v0.3.2/whale-studio-0.3.2.zip"
+    "changelog": "環境安裝精靈一鍵化（預設帳密、智慧主按鈕、安裝容錯強化）；新增資料庫備份頁（立即備份／備份列表／一鍵還原／自動備份設定）。",
+    "url": "https://github.com/Jun222he/whale-studio-updates/releases/download/ide-v0.3.3/whale-studio-0.3.3.zip",
+    "releasedAt": "2026-05-30T09:36:16Z",
+    "size": 118306710,
+    "sha256": "ec9c6fcac4409357ae1ebcef4559d09a2bde2c9ca389b6ca26ea328670f9681d",
+    "version": "0.3.3"
   },
   "server": {
     "size": 12114061,
